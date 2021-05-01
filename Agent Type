@@ -1,0 +1,13 @@
+Simple reflex agents
+
+▪ Why ??
+
+1. actions only based on the current percept
+2. Ignore the precept history (no memory)
+3. Use condition-action rule
+
+▪ why not ??
+1. Action does not depend on history or
+unperceived aspects of the world
+2. Agents of this kind do not take future events into
+consideration

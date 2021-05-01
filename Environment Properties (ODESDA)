@@ -1,0 +1,7 @@
+OBSERVABLE : Fully
+AGENT : Multi
+DETERMINISTIC : Deterministic
+EPISODIC : Sequential 
+STATIC : Static
+DISCRETE : Discrete
+      
